@@ -1,0 +1,22 @@
+.search__contentWrapper {
+  width: 70%;
+  margin: auto;
+  margin-top: 30px;
+}
+.search_inputBox {
+  display: flex;
+  border: 1px solid #b9b9b9;
+  border-radius: 5px;
+  padding: 10px 17px;
+  background-color: #ffffff;
+}
+.search__input {
+  flex: 1;
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+.search__icon {
+  font-size: 22px;
+  color: #b9b9b9;
+}

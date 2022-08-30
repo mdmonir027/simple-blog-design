@@ -1,0 +1,7 @@
+.blogs {
+  margin-top: 50px;
+}
+.blogs__wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
